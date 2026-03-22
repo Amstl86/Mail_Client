@@ -4,7 +4,7 @@
 
 import sys
 from PyQt6.QtWidgets import QApplication
-from view.main_window import MainWindow
+from mail_client.view.main_window import MainWindow
 
 def main():
     app = QApplication(sys.argv)
